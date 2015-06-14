@@ -1,4 +1,16 @@
 .DS_Store
-*.swp
+*.log
 .idea
 /.idea
+bin
+node_modules
+routes
+package.json
+app.js
+views/to_other_side2
+views/to_other_side3
+views/to_other_side4
+views/error.jade
+views/index.jade
+views/layout.jade
+
